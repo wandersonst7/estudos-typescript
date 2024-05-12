@@ -7,4 +7,3 @@ TypeScript é uma linguagem fortemente tipada, orientada a objetos e compilada. 
 * Segue de perto o padrão do ECMAScript
 * Possui tipagem estática e inovadora
 * Manutenção contínua
-* 
